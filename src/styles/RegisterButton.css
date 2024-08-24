@@ -1,0 +1,58 @@
+.btn-navbar {
+    width: 200px;
+    height: 50px;
+    margin-left: 30px;
+    border: 0;
+    font-size: 15px;
+    background-color: rgb(98, 192, 255);
+    color: white;
+    position: absolute;
+    right: 20px;
+    margin-top: -25px;
+    cursor: pointer;
+}
+
+.btn-homepage {
+    width: 18vw;
+    height: 5vw;
+    border: 0;
+    font-size: 1.4vw;
+    background-color: rgb(98, 192, 255);
+    color: white;
+    position: absolute;
+    left: 20px;
+    margin-top: -13vw;
+    cursor: pointer;
+}
+
+.btn-member-registration, .btn-partner-registration{
+    width: 200px;
+    height: 50px;
+    border: 0;
+    font-size: 15px;
+    background-color: rgb(98, 192, 255);
+    color: white;
+    position: absolute;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+@media (max-width: 945px){
+    .btn-navbar{
+        right: 60px;
+    }
+}
+
+@media(max-width: 460px){
+    .btn-member-registration, .btn-partner-registration{
+        width: 43vw;
+        height: 12vw;
+    }
+}
+
+@media(max-width: 445px){
+    .btn-navbar{
+        display: none;
+    }
+}

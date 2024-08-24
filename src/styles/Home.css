@@ -1,0 +1,27 @@
+.homepage-backdrop{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 50vw;
+    margin-top: -24px;
+    color: white;
+}
+
+.homepage-backdrop p{
+    font-size: 1.5vw;
+}
+
+.homepage-backdrop h1{
+    font-size: 4.5vw;
+    font-weight: 500;
+}
+
+.backdrop-text {
+    width: 60%;
+    height: 100%;
+    /* background-color: aqua; */
+    text-align: center;
+    text-align: left;
+    margin-left: 20px;
+}
