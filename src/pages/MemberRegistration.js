@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import MemberBackdrop from "../assets/member-backdrop.avif";
 import "../styles/MemberRegistration.css";
 import { CiCircleRemove } from "react-icons/ci";
-import { CiCircleRemove } from "react-icons/ci";
 
 function MemberRegistration({ medicalDevice }) {
   const [selection, updateSelection] = useState("");
@@ -111,7 +110,7 @@ function MemberRegistration({ medicalDevice }) {
             })}
           </div>
         </div>
-        <div className="checkout-container">
+        <div className="checkout-container n">
           <div className="row">
             {selection === "" ? (
               <span style={{ color: "red" }} className="mb-[35px]">
