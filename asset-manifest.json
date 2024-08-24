@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Nheza-app/static/css/main.3967cb68.css",
+    "main.js": "/Nheza-app/static/js/main.60b9dc11.js",
+    "static/js/453.0d3e98eb.chunk.js": "/Nheza-app/static/js/453.0d3e98eb.chunk.js",
+    "static/media/partner-pic.jpeg": "/Nheza-app/static/media/partner-pic.35f694f1bcde9e9b0658.jpeg",
+    "static/media/homepage-backdrop.webp": "/Nheza-app/static/media/homepage-backdrop.e132a471359635c5c728.webp",
+    "static/media/GiftPack.jpeg": "/Nheza-app/static/media/GiftPack.9bbcb79cd30be0d854de.jpeg",
+    "static/media/Nheza-Logo.png": "/Nheza-app/static/media/Nheza-Logo.444850af93198ff5011c.png",
+    "static/media/member-pic.webp": "/Nheza-app/static/media/member-pic.baae1ca638dfde99b1b6.webp",
+    "static/media/GlucoseMonitor.jpeg": "/Nheza-app/static/media/GlucoseMonitor.e3500579b0ab49cd275e.jpeg",
+    "static/media/FirstAidKit.jpeg": "/Nheza-app/static/media/FirstAidKit.cbde7a52e66e3ec09f95.jpeg",
+    "static/media/register-backdrop.webp": "/Nheza-app/static/media/register-backdrop.e9ecdcbf7d50d0977618.webp",
+    "static/media/FitnessTracker.jpeg": "/Nheza-app/static/media/FitnessTracker.28e016649207bf7276ea.jpeg",
+    "static/media/member-backdrop.avif": "/Nheza-app/static/media/member-backdrop.edcda553e4129414eca2.avif",
+    "index.html": "/Nheza-app/index.html",
+    "main.3967cb68.css.map": "/Nheza-app/static/css/main.3967cb68.css.map",
+    "main.60b9dc11.js.map": "/Nheza-app/static/js/main.60b9dc11.js.map",
+    "453.0d3e98eb.chunk.js.map": "/Nheza-app/static/js/453.0d3e98eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3967cb68.css",
+    "static/js/main.60b9dc11.js"
+  ]
+}
